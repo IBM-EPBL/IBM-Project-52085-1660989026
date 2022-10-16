@@ -21,7 +21,7 @@ DATE OF BIRTH	:
 DEGREE :
 Bachelor of Engineering
 
-BRANCH	:
+BRANCH :
 Electronics and Communication Engineering
 
 YEAR OF PASSING	:
