@@ -1,1 +1,1 @@
-ideation phase
+Ideation Phase
