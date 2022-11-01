@@ -30,8 +30,9 @@ others can be found in ```Screenshots folder```
 
 * Run the Web App
 	1. Install any one of the interface to run code either Anaconda or Jupyter.
-	2. Execute the WebApp using ```flask run``` or ```python app.py```
-	3. The IP address for the webpage will be available at the output terminal
+	2. Execute the WebApp using ```flask run``` or ```app.py```
+	3.Change the directory before running the code in app.py
+	4. The IP address for the webpage will be available at the output terminal
 
 * Train the Model
 	1. Open ```Project\Urban_water_Prediction.ipynb```
