@@ -53,5 +53,6 @@ others can be found in ```Screenshots folder```
 
 ![Webpage Screenshot](https://github.com/IBM-EPBL/IBM-Project-52085-1660989026/blob/main/Screenshots/Webpage_Preview.png?raw=true "Webpage_Preview")
 
-
+##IBM Cloud Deployment
+The Project is also deployed in IBM Cloud and the files required for that is uploaded in the files.
 
