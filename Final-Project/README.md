@@ -27,7 +27,7 @@ Currently, Our Trained model has an accuracy of 97% and at a certain level it sh
 > Screenshot F
 ![Output F](https://github.com/IBM-EPBL/IBM-Project-52085-1660989026/blob/main/Screenshots/Final_Prediction_Output.jpeg?raw=true "Final_Prediction_Output")
 
-others can be found in ```Screenshots folder```
+Others can be found in ```Screenshots folder```
 
 ## Run Instructions
 
