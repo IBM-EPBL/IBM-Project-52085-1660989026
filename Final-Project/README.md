@@ -11,6 +11,7 @@ Currently, Our Trained model has an accuracy of 97% and at a certain level it sh
 
 > Screenshot A
 ![Output A](https://github.com/IBM-EPBL/IBM-Project-52085-1660989026/blob/main/Screenshots/Water_Quality_Index.png?raw=true "Water_Quality_Index")
+
 > Screenshot B
 ![Output B](https://github.com/IBM-EPBL/IBM-Project-52085-1660989026/blob/main/Screenshots/RandomForest_Regression_Algorithm.png?raw=true "RandomForest_Regression_Algorithm")
 
@@ -19,6 +20,12 @@ Currently, Our Trained model has an accuracy of 97% and at a certain level it sh
 
 > Screenshot D
 ![Output D](https://github.com/IBM-EPBL/IBM-Project-52085-1660989026/blob/main/Screenshots/Flask_App.png?raw=true "Flask_App")
+
+> Screenshot E
+![Output E](https://github.com/IBM-EPBL/IBM-Project-52085-1660989026/blob/main/Screenshots/Data_Visualization.png?raw=true "Data_Visualization")
+
+> Screenshot F
+![Output F](https://github.com/IBM-EPBL/IBM-Project-52085-1660989026/blob/main/Screenshots/Final_Prediction_Output.png?raw=true "Final_Prediction_Output")
 
 others can be found in ```Screenshots folder```
 
