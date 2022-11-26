@@ -1,0 +1,20 @@
+
+NAME : Afra Iman A
+
+ROLLNO : 410619106002
+
+EMAIL : afraiman20@gmail.com
+
+MOBILE NUMBER : 9751626505
+
+GENDER : FEMALE
+
+DATE OF BIRTH : 20-03-2001
+
+DEGREE : Bachelor of Engineering
+
+BRANCH : Electronics and Communication Engineering
+
+YEAR OF PASSING : 2023
+
+COLLEGE : DHAANISH AHMED COLLEGE OF ENGINEERING
