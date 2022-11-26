@@ -1,15 +1,15 @@
 
-NAME : Afra Iman A
+NAME : Fathima Koya Nilora S
 
-ROLLNO : 410619106002
+ROLLNO : 410619106005
 
-EMAIL : afraiman20@gmail.com
+EMAIL : fathimakoyanilora@gmail.com
 
-MOBILE NUMBER : 9751626505
+MOBILE NUMBER : 8610739266
 
 GENDER : FEMALE
 
-DATE OF BIRTH : 20-03-2001
+DATE OF BIRTH : 02-05-2002
 
 DEGREE : Bachelor of Engineering
 
