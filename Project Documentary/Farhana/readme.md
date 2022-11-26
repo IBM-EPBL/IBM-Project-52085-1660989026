@@ -1,15 +1,15 @@
 
-NAME : Fathima Koya Nilora S
+NAME : Farhana K
 
-ROLLNO : 410619106005
+ROLLNO : 410619106004
 
-EMAIL : fathimakoyanilora@gmail.com
+EMAIL : ffarhana926@gmail.com
 
-MOBILE NUMBER : 8610739266
+MOBILE NUMBER : 7548878185
 
 GENDER : FEMALE
 
-DATE OF BIRTH : 02-05-2002
+DATE OF BIRTH : 03-01-2002
 
 DEGREE : Bachelor of Engineering
 
