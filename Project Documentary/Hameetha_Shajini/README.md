@@ -1,15 +1,15 @@
 
-NAME : Afra Iman A
+NAME : Hameetha Shajini
 
-ROLLNO : 410619106002
+ROLLNO : 410619106006
 
-EMAIL : afraiman20@gmail.com
+EMAIL : mijjamilshajini@gmail.com
 
-MOBILE NUMBER : 9751626505
+MOBILE NUMBER : 9677789362
 
 GENDER : FEMALE
 
-DATE OF BIRTH : 20-03-2001
+DATE OF BIRTH : 01-02-2002
 
 DEGREE : Bachelor of Engineering
 
